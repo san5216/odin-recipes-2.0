@@ -1,0 +1,37 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  margin-bottom: 5px;
+}
+
+.title-rule {
+  background-color: darkorange;
+  height: 4px;
+  width: 300px;
+  margin-left: 50px;
+  margin-bottom: 30px;
+}
+.recipe-card {
+  margin: 50px;
+}
+
+.recipe-photo img {
+  width: 500px;
+  height: auto;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.description-text {
+}
+
+.ingredients-list ul {
+  background-color: lightgoldenrodyellow;
+  width: fit-content;
+  padding: 10px 50px;
+}
+
+.instructions {
+}
